@@ -1,7 +1,11 @@
-// Create a Set
-const letters = new Set();
+//Set
 
-// Add some values to the Set
-letters.add("a");
-letters.add("b");
-letters.add("c");
+// const collection = new Set();
+
+// collection.add("Karachi")
+// collection.add("Lahore")
+// collection.add("Islamabad")
+// collection.add("Multan")
+// collection.add("Quetta")
+
+// console.log(collection)
