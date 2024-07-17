@@ -1,17 +1,9 @@
-const cars = ["BMW", "Volvo", "Mini"];
-let text = "";
+// For Of Loop
 
-for (let x of cars) {
-  text += x + " ";
-}
+// const arr = ["Karachi", "Lahore", "Islamabad", "Multan", "Quetta"];
 
+// for (const key of arr){
 
+// console.log(key)
 
-
-
-let language = "JavaScript";
-let text = "";
-
-for (let x of language) {
-    text += x + " ";
-}
+// };

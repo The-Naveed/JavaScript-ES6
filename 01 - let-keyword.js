@@ -13,5 +13,3 @@
 //     console.log(firstName);
 
 // }
-
-// XXX

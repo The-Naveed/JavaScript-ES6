@@ -3,3 +3,5 @@ const fruits = new Map([
     ["bananas", 300],
     ["oranges", 200]
     ]);
+
+    console.log(fruits)

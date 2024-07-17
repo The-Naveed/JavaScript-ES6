@@ -3,7 +3,7 @@
 // const personData = {
 
 //     id: 1,
-//     userFirstName: "Naveed",    
+//     userFirstName: "Naveed",
 //     userLastName: "Ahmed",
 //     userContact: "03052065129",
 //     userEmail: "naveedpstc@gmail.com",
@@ -28,6 +28,7 @@
 // const studentsData = {
 
 //     std1: {
+
 //         id: 1,
 //         userFirstName: "Naveed",
 //         userLastName: "Ahmed",
@@ -37,6 +38,7 @@
 //     },
 
 //     std2: {
+
 //         id: 2,
 //         userFirstName: "Saad",
 //         userLastName: "Mujahid",
